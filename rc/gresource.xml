@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+
+  <gresource prefix="/">
+    <file>glades/a.glade</file>
+<file>images/appicon.png</file>
+
+  </gresource>
+
+</gresources>
